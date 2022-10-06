@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Baylrden
 - 👀 I’m interested in Front-end developing
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+
 
 
 <!---
